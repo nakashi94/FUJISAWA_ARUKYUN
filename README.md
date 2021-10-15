@@ -9,6 +9,7 @@
 * Authors
 
 ## Abstract
+神奈川県藤沢市では「ふじさわシティプロモーション」という事業を行っており、その中に「キャラクタープロモーション」、いわゆる、地域課題解決を目的とした案件がある。この案件に対して「ふじさわ歩キュン」と題したアプリを作成し、地域課題解決を図る。
 
 
 ## Introduction
@@ -21,7 +22,7 @@
 
 
 ## tools
-microsoft AzureのPowerAppsとDataverseを使用。
+Microsoft AzureのPowerAppsとDataverseを使用。
 
 
 ## Authors
