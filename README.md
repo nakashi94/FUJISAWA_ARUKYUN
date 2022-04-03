@@ -13,6 +13,13 @@
 ## Demo
 ![home](https://user-images.githubusercontent.com/87302837/161451225-c890d066-db1d-4df6-918b-62907a35c2c8.gif)
 ![map1](https://media.giphy.com/media/JnROI2zreJCGN9y9Dx/giphy.gif)
+![map2](https://media.giphy.com/media/qFVcTGG3ExGlf8x5qN/giphy.gif)
+![tour1](https://media.giphy.com/media/XxWlKDylLM37zDpiMt/giphy.gif)
+![tour2](https://media.giphy.com/media/z8rmDqAzx8V2rwyGxz/giphy.gif)
+![post1](https://media.giphy.com/media/ow9Hk108xLQ1Kg7G0K/giphy.gif)
+![post2](https://media.giphy.com/media/uWQ2EB6XlRmYffAjXt/giphy.gif)
+![mypage](https://media.giphy.com/media/7fD3BynXwERrxzZwsh/giphy.gif)
+![menu](https://media.giphy.com/media/IqPCcWp1fVV0GzI773/giphy.gif)
 
 
 ## tools
